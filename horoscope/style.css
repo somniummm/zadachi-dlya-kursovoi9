@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.goro {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.threeGoro {
+    display: flex;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+
+.test {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
